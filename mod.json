@@ -32,12 +32,9 @@
 			"id": "hjfod.gmd-api",
 			"version": "1.1.0",
 			"importance": "required"
-		},
-		{
-			"id": "hjfod.bettersave",
-			"version": "1.2.0",
-			"importance": "required"
 		}
+
+	
     ],
 	"resources": {
 		"spritesheets": {
