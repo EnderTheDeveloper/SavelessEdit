@@ -1,16 +1,16 @@
 {
-	"geode": "2.0.0-beta.26",
+	"geode": "2.0.0-beta.27",
 	"version": "6.4.3",
 	"gd": {
 		"win": "2.204",
 		"mac": "2.200",
 		"android": "2.205"
 	},
-	"id": "hjfod.betteredit",
-	"name": "BetterEdit",
-	"developers": ["HJfod"],
+	"id": "endrei.saveless",
+	"name": "SavelessEdit",
+	"developers": ["Endrei"],
 	"description": "The Ultimate Editor Mod",
-	"repository": "https://github.com/HJfod/BetterEdit",
+	"repository": "https://github.com/EnderTheDeveloper/SavelessEdit",
 	"links": {
 		"homepage": "https://betteredit.pro",
 		"source": "https://github.com/HJfod/BetterEdit",
